@@ -4,3 +4,4 @@ function run() {
     window.open(instance.html)
   }
 }
+run()
